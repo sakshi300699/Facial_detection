@@ -1,6 +1,6 @@
 import cv2
 
-img1 = cv2.imread("sample.jpg",0)
+img1 = cv2.imread("BFS.png",0)
 # cv2.imshow("Legend", img1)
 # cv2.waitKey(0)
 # cv2.destroyAllWindows()
